@@ -19,5 +19,5 @@ A Python-based tool that monitors SSH login attempts by parsing a log file. It d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/login_monitor_tool.git
+git clone https://github.com/xRe4p3r/login_monitor_tool.git
 cd login_monitor_tool
