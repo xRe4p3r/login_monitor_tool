@@ -10,3 +10,29 @@
 [2025-05-27 10:02:02] [FAILED] IP: 192.168.1.10 | May 27 12:03:04 myhost sshd[1004]: Failed password for root from 192.168.1.10 port 55435 ssh2
 [2025-05-27 10:02:02] [FAILED] IP: 192.168.1.10 | May 27 12:04:05 myhost sshd[1005]: Failed password for root from 192.168.1.10 port 55436 ssh2
 [2025-05-27 10:02:02] [SUCCESS] IP: 192.168.1.11 | May 27 12:10:06 myhost sshd[1006]: Accepted password for user1 from 192.168.1.11 port 55437 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:00:01 myhost sshd[1001]: Failed password for invalid user admin from 192.168.1.10 port 55432 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:01:02 myhost sshd[1002]: Failed password for root from 192.168.1.10 port 55433 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:02:03 myhost sshd[1003]: Failed password for root from 192.168.1.10 port 55434 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:03:04 myhost sshd[1004]: Failed password for root from 192.168.1.10 port 55435 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:04:05 myhost sshd[1005]: Failed password for root from 192.168.1.10 port 55436 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.11 | May 27 12:10:06 myhost sshd[1006]: Accepted password for user1 from 192.168.1.11 port 55437 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:00 myhost sshd[6741]: Failed password for invalid user admin from 192.168.1.11 port 52019 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.10 | May 27 12:03:01 myhost sshd[4987]: Accepted password for user1 from 192.168.1.10 port 55219 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.12 | May 27 12:03:02 myhost sshd[4438]: Failed password for root from 192.168.1.12 port 55782 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.12 | May 27 12:03:03 myhost sshd[6036]: Accepted password for test from 192.168.1.12 port 56350 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:04 myhost sshd[4612]: Failed password for invalid user test from 192.168.1.11 port 55116 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.10 | May 27 12:03:05 myhost sshd[3006]: Accepted password for admin from 192.168.1.10 port 50989 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:03:06 myhost sshd[5307]: Failed password for invalid user admin from 192.168.1.10 port 55824 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:07 myhost sshd[2915]: Failed password for invalid user test from 192.168.1.11 port 51596 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.12 | May 27 12:03:08 myhost sshd[7574]: Failed password for root from 192.168.1.12 port 52159 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.10 | May 27 12:03:09 myhost sshd[9120]: Accepted password for user1 from 192.168.1.10 port 50859 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:10 myhost sshd[1354]: Failed password for invalid user admin from 192.168.1.11 port 54043 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:03:11 myhost sshd[9210]: Failed password for invalid user admin from 192.168.1.10 port 57695 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:12 myhost sshd[9253]: Failed password for invalid user test from 192.168.1.11 port 53175 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.10 | May 27 12:03:13 myhost sshd[2349]: Failed password for invalid user admin from 192.168.1.10 port 51253 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:14 myhost sshd[2068]: Failed password for invalid user admin from 192.168.1.11 port 59062 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.12 | May 27 12:03:15 myhost sshd[6507]: Failed password for invalid user admin from 192.168.1.12 port 56756 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.11 | May 27 12:03:16 myhost sshd[1470]: Failed password for invalid user test from 192.168.1.11 port 59115 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.12 | May 27 12:03:17 myhost sshd[4319]: Accepted password for test from 192.168.1.12 port 57206 ssh2
+[2025-05-27 12:10:21] [FAILED] IP: 192.168.1.12 | May 27 12:03:18 myhost sshd[3485]: Failed password for root from 192.168.1.12 port 54708 ssh2
+[2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.11 | May 27 12:03:19 myhost sshd[1222]: Accepted password for test from 192.168.1.11 port 51504 ssh2
