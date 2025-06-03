@@ -45,3 +45,4 @@ May 27 12:11:17 myhost sshd[8447]: Accepted password for user1 from 192.168.1.12
 May 27 12:11:18 myhost sshd[4467]: Accepted password for root from 192.168.1.12 port 58871 ssh2
 May 27 12:11:19 myhost sshd[7841]: Failed password for root from 192.168.1.12 port 56821 ssh2
 May 27 12:11:20 myhost sshd[7636]: Failed password for root from 192.168.1.12 port 58614 ssh2
+
