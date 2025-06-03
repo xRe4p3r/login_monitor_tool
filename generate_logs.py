@@ -40,3 +40,5 @@ def write_log_entries(count=10, delay=1):
 if __name__ == "__main__":
     print("Simulating login attempts...")
     write_log_entries(count=20, delay=1)
+
+
