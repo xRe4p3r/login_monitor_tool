@@ -36,3 +36,4 @@
 [2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.12 | May 27 12:03:17 myhost sshd[4319]: Accepted password for test from 192.168.1.12 port 57206 ssh2
 [2025-05-27 12:10:21] [FAILED] IP: 192.168.1.12 | May 27 12:03:18 myhost sshd[3485]: Failed password for root from 192.168.1.12 port 54708 ssh2
 [2025-05-27 12:10:21] [SUCCESS] IP: 192.168.1.11 | May 27 12:03:19 myhost sshd[1222]: Accepted password for test from 192.168.1.11 port 51504 ssh2
+
